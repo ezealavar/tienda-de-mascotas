@@ -21,6 +21,11 @@ article {
     border: solid 1px #000;
 }
 
+.imagen-articulo {
+    width: 200px;
+    margin: 0;
+}
+
 article h5 {
     background-color: red;
     padding: 5px;
