@@ -13,7 +13,26 @@ header {
     padding: 50px;
 }
 
+article {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0px 5px;
+    width: 200px;
+    border: solid 1px #000;
+}
+
+article h5 {
+    background-color: red;
+    padding: 5px;
+    margin-top: 0;
+}
+
+article p {
+    padding: 5px;
+}
+
 footer {
     padding: 30px;
     background-color: darkred;
 }
+
