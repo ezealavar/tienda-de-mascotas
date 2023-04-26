@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: red;
+    padding: 20px;
+}
+
+#cuerpo-de-pagina {
+    background-color: #eee;
+    padding: 50px;
+}
+
+footer {
+    padding: 30px;
+    background-color: darkred;
+}
